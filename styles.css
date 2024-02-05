@@ -1,7 +1,10 @@
+body{
+	background-color: rgb(204, 204, 204);
+}
+
 #container{
-   background-color: rgb(204, 204, 204);
 	width: 800px;
-	height: 1000px;
+	height: 600px;
 	padding: 10px;
 	margin: 10px;
 }
@@ -26,7 +29,7 @@ a{
 }
 #sbox{
 	width: 620px;
-	height: 650px;
+	height: 520px;
 	border: 2px solid black;
 	margin-left: 85px;
 	border-radius: 10px;
